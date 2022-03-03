@@ -53,7 +53,7 @@ export default function searchEngine() {
         <input type="submit" value="Search" />
         <div className="errorEmptyCity"></div>
       </form>
-      <h3 className="result"> </h3>
+      <h3 className="result"></h3>
     </div>
   );
 }
